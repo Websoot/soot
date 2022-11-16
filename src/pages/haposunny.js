@@ -39,7 +39,7 @@ export default function examplePage() {
             align-items: center;
             max-width: 60rem;
             margin: auto;
-            background: #C17F9C;
+            background: #21176B;
           }
 
           main {
@@ -49,7 +49,7 @@ export default function examplePage() {
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            background: #21176B;
+            background: #C17F9C;
           }
 
           .title {
