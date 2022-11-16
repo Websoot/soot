@@ -6,7 +6,8 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hello, Im Aidan Bertram!</h1>
+            <h1 className='title'>Hello, Im Aidan Bertram!!!</h1>
+            <h3>Scroll down for surprise...</h3>
           </div>
           <img
             className='pic'
@@ -19,7 +20,7 @@ export default function examplePage() {
           </p>
 
           <a className='button' href='/'>
-            <p> Back to Home Page</p>
+            <p> Back to Home Page, Bugger off!</p>
           </a>
         </main>
 
@@ -57,11 +58,11 @@ export default function examplePage() {
 
           .description {
             line-height: 1.5;
-            font-size: 1.5rem;
+            font-size: 2.5rem;
           }
 
           .pic {
-            height: 450px;
+            height: 3000px;
             width: 450px;
           }
 
@@ -86,12 +87,12 @@ export default function examplePage() {
 
           .button p {
             font-size: 1rem;
-            font-weight: 600;
+            font-weight: 1000;
           }
 
           code {
             background: #fafafa;
-            border-radius: 5px;
+            border-radius: 10px;
             padding: 0.75rem;
             font-size: 1.1rem;
             font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
