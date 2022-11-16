@@ -65,6 +65,8 @@ export default function Home() {
         .container {
           min-height: 100vh;
           padding: 0 0.5rem;
+          background #98BFE6;
+
           display: flex;
           flex-direction: column;
           justify-content: center;
@@ -73,6 +75,7 @@ export default function Home() {
 
         main {
           padding: 5rem 0;
+          background #98BFE6;
           flex: 1;
           display: flex;
           flex-direction: column;
@@ -84,6 +87,8 @@ export default function Home() {
           width: 100%;
           height: 100px;
           border-top: 1px solid #eaeaea;
+          background #98BFE6;
+
           display: flex;
           justify-content: center;
           align-items: center;
@@ -95,6 +100,8 @@ export default function Home() {
 
         footer a {
           display: flex;
+          background #98BFE6;
+
           justify-content: center;
           align-items: center;
         }
@@ -111,6 +118,8 @@ export default function Home() {
 
         .title a:hover,
         .title a:focus,
+        background #98BFE6;
+
         .title a:active {
           text-decoration: underline;
         }
@@ -139,6 +148,8 @@ export default function Home() {
         code {
           background: #fafafa;
           border-radius: 5px;
+          background #98BFE6;
+
           padding: 0.75rem;
           font-size: 1.1rem;
           font-family: Menlo, Monaco, Lucida Console, Liberation Mono,
@@ -161,6 +172,8 @@ export default function Home() {
           padding: 1.5rem;
           text-align: left;
           color: inherit;
+          background #98BFE6;
+
           text-decoration: none;
           border: 1px solid #eaeaea;
           border-radius: 10px;
