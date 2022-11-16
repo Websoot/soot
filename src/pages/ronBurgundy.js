@@ -37,6 +37,7 @@ export default function examplePage() {
           }
 
           main {
+            background: #0071f3;
             padding: 5rem 0;
             flex: 1;
             display: flex;
@@ -62,7 +63,7 @@ export default function examplePage() {
           }
 
           .pic {
-            height: 3000px;
+            height: 1000px;
             width: 450px;
           }
 
@@ -81,7 +82,7 @@ export default function examplePage() {
           .button:hover,
           .button:focus,
           .button:active {
-            color: #0070f3;
+            color: #0071f3;
             border-color: #0070f3;
           }
 
