@@ -35,7 +35,7 @@ export default function Home() {
             </p>
           </a>
           <a
-            href='/haposunny.js'
+            href='/haposunny'
             className='card'>
             <h3>Harrison Peña's Page&rarr;</h3>
             <p>Click here to navigate to Harrison Peña's Page</p>

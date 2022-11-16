@@ -10,13 +10,19 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://thumbs.dreamstime.com/b/emotional-man-two-thumbs-up-isolated-white-background-excited-bearded-guy-happy-face-emotion-both-hands-very-much-140797224.jpg'
+            src='https://i1.sndcdn.com/avatars-85I8nIz8lk6CYCB0-6Gdr4Q-t500x500.jpg'
             alt='John JR'
           />
 
           <p className='description'>
-            Hello my name is Harrison Peña! Welcome to my incredible webpage. I like coding. I am a computer science major. 
+            Welcome to Harrison Peña's page. This is the place where I can share some of my darkest secrets without risk of being heard by the pumpkin police.
           </p>
+
+          <img
+            className='pic'
+            src='https://photosmagiquesblog.files.wordpress.com/2014/08/2004-pumpkinmen-05.jpg'
+            alt='Pumkin Opressor'
+          />
 
           <a className='button' href='/'>
             <p> Back to Home Page</p>
@@ -90,7 +96,7 @@ export default function examplePage() {
           }
 
           code {
-            background: #fafafa;
+            background: #C17F9C
             border-radius: 5px;
             padding: 0.75rem;
             font-size: 1.1rem;
