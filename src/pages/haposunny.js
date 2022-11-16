@@ -88,7 +88,7 @@ export default function examplePage() {
           .button:hover,
           .button:focus,
           .button:active {
-            color: #0070f3;
+            color: #B32454;
             border-color: #0070f3;
           }
 
