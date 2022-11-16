@@ -39,6 +39,7 @@ export default function examplePage() {
             align-items: center;
             max-width: 60rem;
             margin: auto;
+            background: #C17F9C
           }
 
           main {
